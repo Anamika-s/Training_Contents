@@ -9,6 +9,18 @@ https://pseudocode.deepjain.com/
 
 https://www.codecademy.com/article/pseudocode-and-flowcharts
 
+
+https://vaccuss.gitbooks.io/lets-dive-into-flowgorihm/content/
+
+https://www.analyticsvidhya.com/blog/2021/08/decision-tree-algorithm/
+
+
+
+https://vaccuss.gitbooks.io/lets-dive-into-flowgorihm/content/decisions_if_statements.html
+
+
+
+
 https://www.brainkart.com/article/Examples-algorithms--pseudo-code,-flow-chart,-programming-language_35900/
 
 https://www.geeksforgeeks.org/subroutine-subroutine-nesting-and-stack-memory/
