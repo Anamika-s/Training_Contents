@@ -1,8 +1,6 @@
-https://www.geeksforgeeks.org/difference-between-algorithm-and-flowchart/?ref=ml_lbp
-
 https://dev.to/lucpattyn/programming-constructs-for-beginners--jae
 https://www.geeksforgeeks.org/programming-tutorial/
-
+https://www.geeksforgeeks.org/difference-between-algorithm-and-flowchart/?ref=ml_lbp
 https://www.geeksforgeeks.org/what-is-pseudocode-a-complete-tutorial/
 
 https://www.wikihow.com/Write-Pseudocode
